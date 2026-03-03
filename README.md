@@ -1,12 +1,13 @@
 # Fake News Detection using Machine Learning
 
-## Overview
-This project classifies news articles as real or fake using a machine learning approach.
+## Problem Statement
+The goal of this project is to classify news articles as real or fake using supervised machine learning techniques.
 
-## Methods Used
-- Data preprocessing
-- TF-IDF feature extraction
+## Methodology
+- Data preprocessing and text cleaning
+- Feature extraction using TF-IDF
 - Logistic Regression classifier
+- Model evaluation using accuracy metric
 
-## Tools
-Python, NumPy, Pandas, Scikit-learn
+## Tools & Technologies
+Python, NumPy, Pandas, Scikit-learn, Jupyter Notebook
